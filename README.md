@@ -1,0 +1,2 @@
+# jati-inventory-application
+Jati is an inventory management application system. Developed using Typescript as programming language, NestJS for backend, NextJS for the front end and TypeORM for the ORM. This project is an attempt to convert my existing Inventory Management Application that developed using .NET Core. The name "Jati" I choose from the hardwood tree kind (teak tree). Its a strong wood, hopefully Jati Inventory Application will strong also like its name.
